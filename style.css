@@ -98,7 +98,7 @@ body {
   padding: 10px 10px 10px 150px;
   opacity: 0;
   transform: translateY(0%);
-  transition: transform 0.3 ease-in, opacity 0.3s ease-in;
+  transition: transform 0.4s ease-in, opacity 0.3s ease-in;
   z-index: 0;
 }
 .music-container.play .music-info {
